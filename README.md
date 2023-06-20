@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="(https://github.com/AlejoColazurda))">Alejo Colazurda</a> 👋</h1>
 </div>
-<img src="https://ibb.co/6P9JttT">
+<img src="https://i.ibb.co/HzwpPPb/banner.png">
 https://img.shields.io/github/followers/AlejoColazurda?style=social
 https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/alejo-colazurda-8a4a521ab//
 
