@@ -1,10 +1,19 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="(https://github.com/AlejoColazurda))">Alejo Colazurda</a> 👋</h1>
-</div>
-<img src="https://i.ibb.co/HzwpPPb/banner.png">
-https://img.shields.io/github/followers/AlejoColazurda?style=social
-https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/alejo-colazurda-8a4a521ab//
 
+
+<img src="https://i.ibb.co/HzwpPPb/banner.png">
+<p align="center">
+  <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/followers/AlejoColazurda?style=social" alt="GitHub followers"></a>
+  <a href="https://www.linkedin.com/in/alejo-colazurda-8a4a521ab/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/AlejoColazurda"><img src="https://komarev.com/ghpvc/?username=AlejoColazurda" alt="Profile Views"></a>
+  <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/followers/AlejoColazurda?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/stars/AlejoColazurda?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/last-commit/AlejoColazurda/AlejoColazurda?label=Contributions" alt="GitHub Contributions"></a>
+  <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/license/AlejoColazurda/AlejoColazurda" alt="GitHub License"></a>
+  <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/repo-size/AlejoColazurda/AlejoColazurda" alt="GitHub Repository Size"></a>
+</p>
+</div>
 About me
 💻 Aspiring engineer and passionate about programming
 🧑‍🎓 Studying engineering at the National University of the South (UNS)
