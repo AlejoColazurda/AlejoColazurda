@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/HzwpPPb/banner.png">
 <p align="center">
   <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/followers/AlejoColazurda?style=social" alt="GitHub followers"></a>
-  <a href="https://www.linkedin.com/in/alejo-colazurda-8a4a521ab/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/alejo-colazurda-6aa492287/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/AlejoColazurda"><img src="https://komarev.com/ghpvc/?username=AlejoColazurda" alt="Profile Views"></a>
   <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/followers/AlejoColazurda?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/stars/AlejoColazurda?style=social" alt="GitHub Stars"></a>
