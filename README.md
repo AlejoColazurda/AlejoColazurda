@@ -21,7 +21,7 @@ About me
 💬 Connect with me on LinkedIn!
 <br>
 
-
+<br>
 Skills
 Programming languages: Javascript, Python, C++, COBOL, MySQL.
 Web Development: HTML5, CSS3, JavaScript, React, Node.js, Angular, Next.JS
@@ -29,8 +29,6 @@ Teamwork and Agile methodologies
 <br>
 
 Notable Projects
-Here you can showcase your own projects, similar to how your friend highlighted their courses and projects. For example:
-
 <table>
 <tr>
 <td width="50%">
