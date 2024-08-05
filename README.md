@@ -16,18 +16,16 @@
 </div>
 About me
 💻 Aspiring engineer and passionate about programming
-🧑‍🎓 Studying engineering at the National University of the South (UNS)
-🧠 Exploring techniques and development of Artificial Intelligence
+🧑‍🎓 Studying engineering at the Universidad Nacional del Sur (UNS)
 🎲 Enjoy playing chess and exploring new ways to express creativity and love for technology
-💬 Connect with me on LinkedIn
+💬 Connect with me on LinkedIn!
 <br>
 
 
 Skills
 Programming languages: Javascript, Python, C++, COBOL, MySQL.
-Web Development: HTML5, CSS3, JavaScript, React, Node.js
+Web Development: HTML5, CSS3, JavaScript, React, Node.js, Angular, Next.JS
 Teamwork and Agile methodologies
-Artificial Intelligence techniques and development: Machine Learning and NLP in Python
 <br>
 
 Notable Projects
