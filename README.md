@@ -24,6 +24,7 @@ About me
 <br>
 Skills
 Programming languages: Javascript, Python, C++, COBOL, MySQL.
+<br>
 Web Development: HTML5, CSS3, JavaScript, React, Node.js, Angular, Next.JS
 Teamwork and Agile methodologies
 <br>
