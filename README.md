@@ -14,10 +14,10 @@
   <a href="https://github.com/AlejoColazurda"><img src="https://img.shields.io/github/repo-size/AlejoColazurda/AlejoColazurda" alt="GitHub Repository Size"></a>
 </p>
 </div>
-About me
-💻 Aspiring engineer and passionate about programming
-🧑‍🎓 Studying engineering at the Universidad Nacional del Sur (UNS)
-🎲 Enjoy playing chess and exploring new ways to express creativity and love for technology
+About me<br>
+💻 Aspiring engineer and passionate about programming<br>
+🧑‍🎓 Studying engineering at the Universidad Nacional del Sur (UNS)<br>
+🎲 Enjoy playing chess and exploring new ways to express creativity and love for technology<br>
 💬 Connect with me on LinkedIn!
 <br>
 
@@ -25,7 +25,8 @@ About me
 Skills
 Programming languages: Javascript, Python, C++, COBOL, MySQL.
 <br>
-Web Development: HTML5, CSS3, JavaScript, React, Node.js, Angular, Next.JS
+Web Development: HTML5, CSS3, JavaScript, React, Node.js, Angular, Next.JS.
+<br>
 Teamwork and Agile methodologies
 <br>
 
